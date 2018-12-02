@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 16:15:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test another on anther</title>
+      <link>/posts/test-another-on-anther/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/test-another-on-anther/</guid>
+      <description>Lets see if this works works</description>
+      <content type="html"><![CDATA[<p>Lets see if this works works</p>
+]]></content>
+    </item>
     
     <item>
       <title>Post With Featured Image</title>
