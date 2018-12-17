@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/test-another-on-anther/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>/post/research/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/new-article/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,13 +23,8 @@
   </url>
   
   <url>
-    <loc>/posts/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+    <loc>/p785/</loc>
+    <lastmod>2018-11-28T07:01:10+00:00</lastmod>
   </url>
   
   <url>
@@ -33,74 +33,24 @@
   </url>
   
   <url>
-    <loc>/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/electricity/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,20 +61,26 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/referendum/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,25 +92,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
