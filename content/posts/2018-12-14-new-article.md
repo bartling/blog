@@ -1,5 +1,5 @@
 ---
-title: New Article Published
+title: New Research Article Published
 author: Hugh
 date: '2018-12-14'
 slug: new-article
