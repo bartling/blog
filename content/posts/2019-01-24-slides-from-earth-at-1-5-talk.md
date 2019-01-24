@@ -1,10 +1,12 @@
 ---
 title: Slides from Earth at 1.5 Talk
-author: 'hugh'
+author: hugh
 date: '2019-01-24'
-slug: test
-categories: []
-tags: []
+slug: slides-from-earth-at-1-5-talk
+categories:
+  - climate
+tags:
+  - climate
 comments: no
 ---
 
