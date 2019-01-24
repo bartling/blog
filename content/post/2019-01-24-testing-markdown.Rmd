@@ -1,0 +1,14 @@
+---
+title: Testing Markdown
+author: Hugh
+date: '2019-01-24'
+slug: testing-markdown
+categories:
+  - R
+tags:
+  - R Markdown
+comments: no
+---
+
+# Here is a test of markdown.
+Good job
