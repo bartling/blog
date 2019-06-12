@@ -1,13 +1,15 @@
 ---
-title: 'Bike Share and User Motivation: Exploring Trip Substitution Among Divvy Users'
+title: 'Bike Share and User Motivation: Exploring Trip Substitution Choices Among
+  Divvy Users'
 author: ''
 date: '2019-06-11'
-slug: bike-share-and-user-motivation-exploring-trip-substitution-among-divvy-users
+slug: bike-share-and-user-motivation-exploring-trip-substitution-choices-among-divvy-users
 categories: []
 tags:
   - bikeshare
 comments: no
 ---
+
 On Friday, 14 June 2019 I will be presenting new research I have conducted in Chicago on Divvy usage at the annual [Transport Chicago](http://www.transportchicago.org/) conference.  With student help we conducted an intercept survey of Divvy users at various kiosks around Lincoln Park.
 
 Among the questions we asked were ones related to trip substitution. Was the Divvy user using bike share instead of train, bus, automobile, or walking?
@@ -17,3 +19,4 @@ The survey revealed that most substitutions were for walking and transit. We als
 Substitute trips for walking were like to be motivated by convenience while substitute trips for the train were likely to be motivated by expense and trips that were substitutive for cars were likely to be motivated by exercise and expense.
 
 Below you can find the poster associated with the research. The paper will be posted soon!
+
