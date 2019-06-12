@@ -20,3 +20,4 @@ Substitute trips for walking were like to be motivated by convenience while subs
 
 Below you can find the poster associated with the research. The paper will be posted soon!
 
+![Transport Poster](static/img/BartlingTransportChicago.png)
