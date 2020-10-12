@@ -18,6 +18,6 @@ The survey revealed that most substitutions were for walking and transit. We als
 
 Substitute trips for walking were like to be motivated by convenience while substitute trips for the train were likely to be motivated by expense and trips that were substitutive for cars were likely to be motivated by exercise and expense.
 
-[Here you can find the poster](http://www.hughbartling.com/img/TransportChicagoPosterSmallSize.pdf) associated with the research. The paper will be posted soon!
+[Here you can find the poster](http://www.hughbartling.com/img/TransportChicagoPosterSmallSize.pdf) associated with the research. 
 
 
