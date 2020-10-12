@@ -10,7 +10,7 @@ tags:
 comments: no
 ---
 
-On Friday, 14 June 2019 I will be presenting new research I have conducted in Chicago on Divvy usage at the annual [Transport Chicago](http://www.transportchicago.org/) conference.  With student help we conducted an intercept survey of Divvy users at various kiosks around Lincoln Park.
+On Friday, 14 June 2019 I presented new research I have conducted in Chicago on Divvy usage at the annual [Transport Chicago](http://www.transportchicago.org/) conference.  With student help we conducted an intercept survey of Divvy users at various kiosks around Lincoln Park.
 
 Among the questions we asked were ones related to trip substitution. Was the Divvy user using bike share instead of train, bus, automobile, or walking?
 
