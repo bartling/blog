@@ -12,11 +12,13 @@ featuredImg: ''
 
 Test
 
-```{r}
+```{r out.width='100%', echo=FALSE}
 library(leaflet)
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
-m  # Print the map
+leaflet() %>% addTiles() %>%
+  setView(-93.65, 42.0285, zoom = 17) %>%
+  addPopups(
+    -93.65, 42.0285,
+    'Here is the <b>Department of Statistics</b>, ISU'
+  )
 ```
 
