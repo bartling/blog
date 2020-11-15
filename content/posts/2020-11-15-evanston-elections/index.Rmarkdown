@@ -1,0 +1,13 @@
+---
+title: Evanston Elections
+author: ''
+date: '2020-11-15'
+slug: []
+categories:
+  - R
+  - GIS
+tags: []
+featuredImg: ''
+---
+
+Test
