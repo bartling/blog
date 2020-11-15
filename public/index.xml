@@ -7,76 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Research</title>
-      <link>/post/research/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/research/</guid>
-      <description>My research focus is on the intersection between urban and environmental policy. I am particularly interested in the ways in which local governments are managing the transition to a low-carbon economy and adapting to changing climate conditions.</description>
-    </item>
-    
-    <item>
-      <title>New Research Article Published</title>
-      <link>/posts/new-article/</link>
-      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/new-article/</guid>
-      <description>I have a new article published in the Illinois Municipal Policy Journal that analyzes community choice aggregation referendums in Illinois. Check it out here</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/2018-11-30-teaching/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018-11-30-teaching/</guid>
-      <description>I teach courses on environmental and urban policy at DePaul University.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/post/statictest/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/statictest/</guid>
-      <description>I teach courses on environmental and urban policy at DePaul University, Chicago IL USA.</description>
-    </item>
-    
-    <item>
-      <title>Community Choice Aggregation Updates</title>
-      <link>/p785/</link>
-      <pubDate>Wed, 28 Nov 2018 07:01:10 +0000</pubDate>
-      
-      <guid>/p785/</guid>
-      <description>I have an article coming out soon analyzing electricity aggregation referendums in Illinois and, as such, I&amp;#8217;ve been following how cities have been using this mechanism.
-Community choice aggregation is available in seven states and it enables municipal governments to negotiate directly with utility suppliers for rates and terms on behalf of all of the customers in their jurisdiction.&amp;nbsp; In some states voters must approve a referendum in order for local authorities to have the power to negotiate.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about-hugo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about-hugo/</guid>
-      <description>Hugh Bartling is Associate Professor of Public Policy Studies at DePaul University, Chicago Illinois, USA.</description>
-    </item>
     
   </channel>
 </rss>
