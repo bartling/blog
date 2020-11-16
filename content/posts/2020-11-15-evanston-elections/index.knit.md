@@ -14,32 +14,26 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r}
+
+```r
 summary(cars)
+```
+
+```
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
 ```
 
 You can also embed plots, for example:
 
-```{r, echo=FALSE}
-plot(cars)
-```
+<img src="index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 
 Test of the widgetframe
 
-```{r, echo=FALSE}
-library(leaflet)
-library(widgetframe)
-library(htmltools)
-l <- leaflet() %>% addTiles() %>% setView(0,0,2)
-currentWD <- getwd()
-dir.create("static/leaflet", showWarnings = FALSE)
-setwd("static/leaflet")
-saveWidget(l, "leafMap.html")
-setwd(currentWD)
-```
 
-Then oput here
 
-<iframe seamless src="/static/leaflet/leafmap/index.html" width="100%" height="500"></iframe>
-
-HOW WAS THAT
